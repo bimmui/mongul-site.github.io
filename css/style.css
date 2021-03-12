@@ -177,6 +177,7 @@ ol {
     -webkit-animation: loader .8s linear infinite
 }
 
+
 @keyframes loader {
     0% {
         -webkit-transform: rotate(0deg);
