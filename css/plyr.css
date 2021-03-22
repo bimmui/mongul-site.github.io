@@ -711,7 +711,8 @@ a.plyr__control::before {
 .plyr__time+.plyr__time::before {
     content: '\2044';
     margin-right: 10px;
-    margin-right: var(--plyr-control-spacing, 1000px)
+    margin-right: var(--plyr-control-spacing, 10px)
+    padding-bottom: 25px
 }
 
 @media(max-width:calc(768px - 1)) {
