@@ -1196,7 +1196,7 @@ ol {
 .anime__video__player .plyr__controls .plyr__controls__item.plyr__time {
     position: absolute;
     left: 106px;
-    bottom: 12px
+    bottom: 25px
 }
 
 .anime__video__player .plyr__control--overlaid {
