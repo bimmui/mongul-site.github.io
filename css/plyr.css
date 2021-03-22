@@ -248,14 +248,14 @@ a.plyr__control::before {
 }
 
 .plyr__controls .plyr__controls__item.plyr__time {
-    padding: 0 calc(10px/2);
+    padding: 100 calc(10px/2);
     padding: 0 calc(var(--plyr-control-spacing, 10px)/2)
 }
 
 .plyr__controls .plyr__controls__item.plyr__progress__container:first-child,
 .plyr__controls .plyr__controls__item.plyr__time+.plyr__time,
 .plyr__controls .plyr__controls__item.plyr__time:first-child {
-    padding-left: 100px
+    padding-left: 0
 }
 
 .plyr__controls:empty {
