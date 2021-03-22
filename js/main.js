@@ -54,7 +54,7 @@
       "play",
       "progress",
       "current-time",
-      "mute",
+      "volume",
       "captions",
       "settings",
       "fullscreen"
