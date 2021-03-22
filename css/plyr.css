@@ -1554,7 +1554,7 @@ a.plyr__control::before {
     bottom: 6px;
     left: 0;
     position: absolute;
-    right: 0;
+    right: 20;
     white-space: nowrap;
     z-index: 3
 }
