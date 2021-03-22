@@ -255,7 +255,7 @@ a.plyr__control::before {
 .plyr__controls .plyr__controls__item.plyr__progress__container:first-child,
 .plyr__controls .plyr__controls__item.plyr__time+.plyr__time,
 .plyr__controls .plyr__controls__item.plyr__time:first-child {
-    padding-left: 100
+    padding-left: 0
 }
 
 .plyr__controls:empty {
@@ -711,7 +711,7 @@ a.plyr__control::before {
 .plyr__time+.plyr__time::before {
     content: '\2044';
     margin-right: 10px;
-    margin-right: var(--plyr-control-spacing, 10px)
+    margin-right: var(--plyr-control-spacing, 1000px)
 }
 
 @media(max-width:calc(768px - 1)) {
